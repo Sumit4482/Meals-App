@@ -1,16 +1,8 @@
 # Meals Application
 
-This project is the one of the training projects of Flutter & Dart - The Complete Guide course.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="Screenshot_1.jpg" alt="Screenshot" width="200"/>
+<img src="Screenshot_2.jpg" alt="Screenshot" width="200"/>
+<img src="Screenshot_3.jpg" alt="Screenshot" width="200"/>
+<img src="Screenshot_4.jpg" alt="Screenshot" width="200"/>
+<img src="Screenshot_5.jpg" alt="Screenshot" width="200"/>
+<img src="Screenshot_6.jpg" alt="Screenshot" width="200"/>
